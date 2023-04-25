@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning **php, Ruby and honing another skills.**
 - 📫 How to reach me **tmansilla0912@gmail.com**
+- 😖 Sooon unpublished projects being perfected 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
